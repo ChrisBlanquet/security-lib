@@ -44,11 +44,11 @@ En el archivo `pom.xml` del microservicio cliente, asegúrate de tener el reposi
     </dependency>
 </dependencies>
 
-## 🚀 Uso Rápido
+## Uso Rápido
 
 Una vez instalada la dependencia, el microservicio heredará automáticamente la validación de tokens. Asegúrate de tener en el `application.properties` del microservicio cliente la misma clave pública o secreto para validar los JWT (dependiendo de tu implementación criptográfica).
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * Java 21
 * Spring Boot 3.x
