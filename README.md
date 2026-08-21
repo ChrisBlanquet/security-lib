@@ -55,3 +55,11 @@ Una vez instalada la dependencia, el microservicio heredará automáticamente la
 * Spring Security
 * jjwt (JSON Web Token)
 * Lombok
+
+
+Autor
+Christopher Blanquet - Ingeniero en Sistemas Computacionales | Backend Developer
+
+LinkedIn: https://linkedin.com/in/christopherblanquet/
+
+GitHub: https://github.com/ChrisBlanquet
